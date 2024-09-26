@@ -47,7 +47,7 @@ Feel free to explore, learn from the solutions, and even contribute your own app
 ---
 
 ### 📊 Progress Tracker
-- Total Problems Solved: [25]
+- Total Problems Solved: [26]
 - Easy: [5]
-- Medium: [17]
+- Medium: [18]
 - Hard: [3]
